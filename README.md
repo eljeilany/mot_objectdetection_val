@@ -6,4 +6,4 @@ train/validation split is .86
 
 You can run it on colab here
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/eljeilany/mot_objectdetection_val/blob/master/training_surfrider.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lc6wa0tSfvcySG0D1klMqw6mbYxPyNTU)
